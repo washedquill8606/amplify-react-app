@@ -1,0 +1,14 @@
+{
+  "resourceName": "mediaNotes",
+  "policyUUID": "b08ece3e",
+  "bucketName": "react-app-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
